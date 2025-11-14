@@ -1,2 +1,2 @@
 # gayatri
-i am going tolearn github 
+i am going to learn github 
